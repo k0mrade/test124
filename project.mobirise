@@ -471,7 +471,7 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "center",
-              "font-size": "60px"
+              "font-size": "48px"
             }
           },
           "_anchor": "header4-o",
