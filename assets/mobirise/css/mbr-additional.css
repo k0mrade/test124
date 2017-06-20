@@ -555,6 +555,10 @@ h6,
 #menu-5 .dropdown-item[aria-expanded="true"] {
   color: #e25041!important;
 }
+#header4-o .mbr-section-title {
+  text-align: center;
+  font-size: 60px;
+}
 
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
